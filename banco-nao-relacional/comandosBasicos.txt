@@ -1,0 +1,5 @@
+mongo -> iniciar o mongoDB no cmd
+use <nome-do-banco> criar um banco de dados
+show dbs -> mostrar os bancos de dados criados
+db.createCollection('nomeDaCollection') -> Criar uma collection = tabela
+db.nomeDataCollection.drop() -> deletar uma collection
