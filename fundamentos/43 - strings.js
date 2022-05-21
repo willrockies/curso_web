@@ -16,3 +16,9 @@ console.log(
 console.log(escola.replace(3, "e"));
 
 console.log("Wilson,Alves,Silva".split(","));
+
+function FirstReverse(str){
+  return str.split('').reverse().join('')
+}
+
+console.log(FirstReverse('coder'))
