@@ -25,3 +25,4 @@ console.log(aprovados);
 delete aprovados[1];
 console.log(aprovados[1]);
 console.log(aprovados[2]);
+
